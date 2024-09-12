@@ -1,7 +1,7 @@
 baseURL = "https://dglee.kr/"
 title = "DGLEE.KR"
 theme = "hugo-notepadium"
-copyright = "2020 ALL RIGHTS RESERVED."
+copyright = "2024 ALL RIGHTS RESERVED.[내꺼임!]"
 
 languageCode = "ko-kr"
 hasCJKLanguage = true
